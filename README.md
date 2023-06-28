@@ -1,2 +1,2 @@
 # Morphological-processing-Using-Morfessor.
-Understanding and processing morphological features of Amharic words, identifying their component parts(such as prefixes, suffixes and roots) using morfessor. 
+Understanding and processing morphological features of Amharic words, identifying their component parts(such as prefixes, suffixes and roots) using morfessor. For improved performance, the code incorporates several preprocessing steps. These steps include removing non-Amharic words from the text, eliminating duplicated words, and implementing character-level normalization due to the homophonic nature of Amharic characters.
